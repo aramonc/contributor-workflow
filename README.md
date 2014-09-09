@@ -73,6 +73,8 @@ __NOTE:__ If you have any conflicts, you will need to fix the affected file manu
 
 **If you’re not familiar with Git and GitHub, here are some links we’ve found helpful:**
 
+https://try.github.io
+
 https://help.github.com/articles/fork-a-repo
 
 https://help.github.com/articles/syncing-a-fork
